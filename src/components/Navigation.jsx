@@ -1,10 +1,13 @@
+import WebGLScene from "./WebGLScene";
+
 function Navigation() {
   return (
-    <nav>
-      <h2 className="logo">
-        LOGO
-      </h2>
-      <ul>
+    <nav className="flex flex-row items-center">
+      <div className="flex flex-row items-center">
+        <div className="text-3xl">LOGO</div>
+        <div className="h-16 w-16"><WebGLScene /></div>
+      </div>
+      <ul className="text-1xl">
         <li>
           <a href="">One</a>
         </li>

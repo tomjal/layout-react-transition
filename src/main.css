@@ -40,10 +40,6 @@ body {
   min-height: 100vh;
 }
 
-.wrapper > * {
-  padding: 20px;
-}
-
 /* HEADER
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .page-header {
@@ -88,6 +84,7 @@ body {
     center / cover;
   background-blend-mode: luminosity;
   color: var(--main-white-color);
+  padding: 20px;
 }
 
 .page-main div {
@@ -108,6 +105,7 @@ body {
   display: flex;
   flex-direction: column-reverse;
   background: var(--main-white-color);
+  padding: 14px 32px;
 }
 
 .page-footer ul {
