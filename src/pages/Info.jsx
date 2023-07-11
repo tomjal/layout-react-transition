@@ -1,15 +1,13 @@
-
-
 function Info() {
   return (
     <section>
-      <div class="text-wrapper">
+      <div class="">
         <h1>Try this catalog</h1>
       </div>
-      <div class="text-wrapper p-wrapper">
+      <div class="">
         <p>You will never need another catalog again</p>
       </div>
-      <div class="text-wrapper p-wrapper">
+      <div class="">
         <p>Many games, such fun</p>
       </div>
     </section>

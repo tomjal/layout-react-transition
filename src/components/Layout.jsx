@@ -4,7 +4,7 @@ import Content from './Content';
 
 function Layout() {
   return (
-    <div className="wrapper">
+    <div className="">
       <Header />
       <Content />
       <Footer />
