@@ -6,20 +6,20 @@ function Navigation() {
       </h2>
       <ul>
         <li>
-          <a href="">Catalog</a>
+          <a href="">One</a>
         </li>
         <li>
-          <a href="">News</a>
+          <a href="">Two</a>
         </li>
         <li>
-          <a href="">Test</a>
+          <a href="">Three</a>
         </li>
         <li>
-          <a href="">Editor</a>
+          <a href="">Four</a>
         </li>
       </ul>
       <button className="cta-contact">
-        Contact
+        Button
       </button>
     </nav>
   )
