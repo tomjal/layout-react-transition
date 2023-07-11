@@ -1,11 +1,6 @@
-import WebGLScene from "./WebGLScene";
-
 function Navigation() {
   return (
     <nav className="">
-      <div className="">
-        <div>LOGO</div>
-      </div>
       <ul className="">
         <li>
           <a href="">One</a>

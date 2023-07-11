@@ -3,11 +3,9 @@ import Navigation from "./Navigation";
 function Header() {
   return (
     <header className="">
-      <div className="">
-        <div>LOGO</div>
-      </div>
+      <div>LOGO</div>
       <Navigation />
-      <button className="cta-contact">
+      <button className="">
         Button
       </button>
     </header>
