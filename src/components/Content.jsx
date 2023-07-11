@@ -1,11 +1,11 @@
-import Info from '../pages/Info';
+import Home from '../pages/Home';
 
 // Routes should be placed here
 
 function Content() {
   return (
-    <main className="">
-        <Info />
+    <main className="p-4 bg-green-800 grow overflow-scroll">
+        <Home />
     </main>
   )
 }

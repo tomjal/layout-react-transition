@@ -4,7 +4,7 @@ import Content from './Content';
 
 function Layout() {
   return (
-    <div className="">
+    <div className="h-screen flex flex-col justify-between">
       <Header />
       <Content />
       <Footer />

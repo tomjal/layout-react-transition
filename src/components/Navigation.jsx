@@ -1,18 +1,18 @@
 function Navigation() {
   return (
-    <nav className="">
-      <ul className="">
+    <nav>
+      <ul className="flex flex-row items-center justify-between gap-x-5">
         <li>
-          <a href="">One</a>
+          <a href="/">One</a>
         </li>
         <li>
-          <a href="">Two</a>
+          <a href="/">Two</a>
         </li>
         <li>
-          <a href="">Three</a>
+          <a href="/">Three</a>
         </li>
         <li>
-          <a href="">Four</a>
+          <a href="/">Four</a>
         </li>
       </ul>
     </nav>
